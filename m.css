@@ -1,0 +1,16 @@
+h1{
+    background-color: aqua;
+}
+button{
+    border-radius: 12px 30px;
+    background-color: rgb(217, 235, 22);
+}
+ button:hover {
+    background-color: rgb(230, 24, 179);
+}
+body{
+    font-family: aril,sans-serif;
+    background-color: beige;
+    margin: o;
+    padding: o;
+}
